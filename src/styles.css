@@ -79,7 +79,8 @@
 
 @media(max-width: 620px){
     .title{
-        font-size: 60px;
+        font-size: 80px;
+        text-align: center;
     }
 
     .main h2{
